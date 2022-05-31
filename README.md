@@ -1,9 +1,9 @@
 ### Hi! 👋
 
 
-- 🔭 Here you'll see me working on some web development projects in Python (flask and jinja template) and Javascript. 
+- 🌱 I’m a software engineer with experience in Javascript, Python and Ruby. I'm currently working at Kyndryl developing bot apps in JS and web apps using Rails. 
 
-- 🌱 I’m currently learning full-stack web development with javascript and react.
+- 🔭 Here you'll see me working on some portfolio projects and coding exercises involving Python (flask and jinja template) and Javascript. 
 
 - 📫 How to reach me: dsadrinas@gmail.com
 
